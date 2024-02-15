@@ -15,6 +15,8 @@ def search():
 def log_in():
     return render_template("log_in.html")
 
+
+
 @app.route("/register")
 def  register():
     return render_template("register.html")
