@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "heroku": "^8.10.0"
+    "heroku": "^8.10.0",
+    "mongodb": "4.0"
   }
 }
